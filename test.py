@@ -9,3 +9,6 @@ cadenas = [
 for cadena in cadenas:
     for _ in range(4):
         print(cadena)
+export LEETCODE_USER="tangqian669@prima.com.pe
+export LEETCODE_PASSWORD="Tq5201314"
+export OPENAI_API_KEY=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
