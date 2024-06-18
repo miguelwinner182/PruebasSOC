@@ -5,7 +5,7 @@ cadenas = [
     'abcdelseguro.com.pe',
     '35.241.2.28'
 ]
-
+#test
 for cadena in cadenas:
     for _ in range(4):
         print(cadena)
